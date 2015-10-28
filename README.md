@@ -12,3 +12,5 @@ The Tsugi name and logo &copy; copyright Tsugi, 2013.
 Adding stuff to the readme file to trigger a new build
 
 Adding more stuff.
+
+Changing some stuff.
