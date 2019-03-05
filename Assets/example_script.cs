@@ -15,6 +15,7 @@ public class example_script : MonoBehaviour {
             return;
         }
 #endif
+	    Debug.Log("Putting in some debug to trigger a new build.");
 		// Draws a single image in a square the size of the screen
 		int width = Screen.width;
 		int height = Screen.height;
